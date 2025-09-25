@@ -1,0 +1,9 @@
+Contact: mailto:security@openli.nz
+
+Encryption: https://files.openli.nz/pgp-security-openli.asc
+# Fingerprint: 5F28 FD79 9CC1 B315 80F4  4B6E 8FD5 2862 C3BB 658B
+
+Expires: 2026-09-25T12:00:00z
+Canonical: https://openli.nz/.well-known/security.txt
+Canonical: https://files.openli.nz/security.txt
+Preferred-Languages: en
